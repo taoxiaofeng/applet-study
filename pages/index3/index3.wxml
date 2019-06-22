@@ -1,0 +1,9 @@
+<view class="" hover-class="none" hover-stop-propagation="false">
+    {{'hello' + msg}} 
+    <view>num:{{number}}</view>
+    <view>isBoy:{{isBoy}}</view>
+    <view>name:{{person.name}} -- height:{{person.height}} -- age: {{person.age}}</view>
+    <view data-id="{{title}}">title</view>
+    <view><checkbox checked="{{true}}"></checkbox> </view>
+</view>
+   

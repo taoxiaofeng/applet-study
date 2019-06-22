@@ -1,0 +1,6 @@
+<view style="background-color:yellow;color:{{myColor}}">
+    index8
+</view>
+<view class="{{myClass}}">
+    box
+</view>

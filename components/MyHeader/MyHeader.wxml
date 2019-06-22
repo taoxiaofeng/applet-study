@@ -1,0 +1,7 @@
+<view class="my_header">
+    {{cData.value}}
+    <view class="" hover-class="none" hover-stop-propagation="false">
+        <slot ></slot>
+    </view>
+</view>
+ 

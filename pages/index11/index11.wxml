@@ -1,0 +1,15 @@
+<!-- pages/index11/index11.wxml -->
+<swiper autoplay="{{true}}" indicator-dots="{{true}}" indicator-color="#ffffff" indicator-active-color="#D9D9D9" circular="{{true}}" interval="1000">
+    <swiper-item>
+        <image mode="widthFix" src="../../images/01.jpg"></image>
+    </swiper-item>
+    <swiper-item class="" item-id="">
+        <image mode="widthFix" src="../../images/02.jpg"></image>
+    </swiper-item>
+    <swiper-item class="" item-id="">
+        <image mode="widthFix" src="../../images/03.png"></image>
+    </swiper-item>
+    <swiper-item class="" item-id="">
+        <image  mode="widthFix"src="../../images/04.png"></image>
+    </swiper-item>
+</swiper>

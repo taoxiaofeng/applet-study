@@ -1,0 +1,7 @@
+<view hover-class="hover_class" hover-stop-propagation="false">
+    index9
+</view>
+<view class="" hover-class="none" hover-stop-propagation="false">
+    <text selectable>text</text>
+    <text decode>普&nbsp;通</text>
+</view>

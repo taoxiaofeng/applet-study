@@ -1,0 +1,11 @@
+/* pages/index6/index6.wxss */
+.box1 {
+    /* 750px 宽度 和 高度 100px*/
+    /* 375px 宽度 和 高度 50px */
+
+    /* 750px 下  1rpx = 1px*/
+    width: 100rpx;
+    height: 100rpx;
+    background-color: aqua;
+    font-size: 100rpx;
+}
